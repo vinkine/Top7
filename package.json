@@ -2,5 +2,19 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
-  }
+  },
+  "name": "top7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@e.coding.net:cole/top7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
