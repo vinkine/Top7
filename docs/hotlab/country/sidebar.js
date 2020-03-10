@@ -1,16 +1,16 @@
 module.exports = [
 		{
-		  title:'菜鸟宝典',
+		  title:'今日热点',
 		  collapsable: true,
 		  children:[
-			'/baodian/high/bd1',
+			'/hotlab/country/today/hot',
 		  ]
 		},
 		{
-		  title:'老鸟宝典',
+		  title:'历史热点',
 		  collapsable: true,
 		  children:[
-			'/baodian/high/bd2',
+			'/hotlab/country/history/hot',
 		  ]
 		}
 	]

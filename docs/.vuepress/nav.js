@@ -6,10 +6,10 @@ module.exports = [
 	    text: '海豚排行榜', link: '/rank/'
 	},
     {
-        text: '面试宝典',
+        text: '天下热点',
 		items: [
-            {text: '初级开发篇', link: '/baodian/zero/'},
-            {text: '中高进阶篇', link: '/baodian/high/'},
+            {text: '国内热点', link: '/hotlab/country/'},
+            {text: '全球热点', link: '/hotlab/world/'},
         ]
     },
     {

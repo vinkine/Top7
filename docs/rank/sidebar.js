@@ -13,7 +13,7 @@ module.exports = [
 		  title:'日常家居',
 		  collapsable: true,
 		  children:[
-			'/guide/home/home',
+			'/rank/home/home',
 		  ]
 		}
 	]
