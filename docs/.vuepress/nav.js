@@ -2,6 +2,9 @@ module.exports = [
     {
         text: '新手指南', link: '/guide/'
     },
+	{
+	    text: '海豚排行榜', link: '/rank/'
+	},
     {
         text: '面试宝典',
 		items: [

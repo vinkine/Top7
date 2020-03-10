@@ -4,7 +4,7 @@ heroImage: /hero.png
 heroText: 海豚
 tagline: haitun.store   follow me to a new world
 actionText: know me →
-actionLink: /zh/guide/
+actionLink: /guide/know_me
 features:
 - title: 简单
   details: 纷繁世界，至简为美
