@@ -1,7 +1,7 @@
 module.exports = {
    title: '海豚导航',
    description: 'follow me to a new world',
-    dest: './dist',
+    //dest: './dist',
     port: '8080',
     head: [
         ['link', {rel: 'icon', href: '/img/logo.png'}],
